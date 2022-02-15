@@ -43,17 +43,6 @@ dl > dd {
     border-radius: .25rem;
 }
 
-#slide-2-1 > div.fragment > div.cell {
-    color: #004085;
-    background-color: #cce5ff;
-    border-color: #b8daff;
-    padding: .75rem 1.25rem;
-    margin: 1rem;
-    width: 45% !important;
-    border: 1px solid transparent;
-    border-radius: .25rem;
-}
-
 #slide-5-3 .code_cell {
     flex-direction: row !important;
 }
