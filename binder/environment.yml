@@ -16,9 +16,3 @@ dependencies:
     - websockify
     - pip:
         - jupyter-desktop-server
-        - git+git://github.com/pyvista/pyvista@master
-        - pyvistaqt
-        - ipyvtk-simple>=0.1.2
-        - itkwidgets>=0.25.2
-        - pyct
-        - git+https://github.com/Chilipp/psy-vtk.git@master
