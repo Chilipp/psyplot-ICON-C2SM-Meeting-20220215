@@ -5,6 +5,7 @@ set -euo pipefail
 jupyter nbextension enable splitcell/splitcell
 
 mkdir -p $HOME/Desktop
+mkdir -p $HOME/.config
 
 cp -r data/*.nc $HOME/Desktop
 
